@@ -1,0 +1,4 @@
+datasets~=2.16.1
+transformers
+bertviz
+transformers[torch]
